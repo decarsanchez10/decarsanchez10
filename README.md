@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **decarsanchez10/decarsanchez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake](https://github.com/YourUsername/decarsanchez10/blob/output/github-snake-dark.svg)
+![snake](https://github.com/decarsanchez10/decarsanchez10/blob/output/github-snake-dark.svg)
