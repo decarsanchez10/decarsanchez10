@@ -19,10 +19,9 @@ Computer Engineering student passionate about web development and creating beaut
 
 
 
-### ☁️ Aesthetic Vibes
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqbmJqbmJqbmJqbmJqbmJqbmJqbmJqbmJqbmJqbmJqbmJqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp90Z7R68a4/giphy.gif" width="300"/>
-</div>
+
+![Aesthetic GIF](https://i.giphy.com/media/l41lTjJp90Z7R68a4/giphy.gif)
+
 
 
 <div align="center">
