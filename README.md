@@ -20,7 +20,7 @@ Computer Engineering student passionate about web development and creating beaut
 
 <div align = center>
 
-![Aesthetic GIF](https://i.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif)
+![Aesthetic GIF](https://i.giphy.com/media/kZqbBT64ECtjy/giphy.gif)
 </div>
 <div align = center>
   <p>Thanks for visiting my corner of the internet! ✨</p>
