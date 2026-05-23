@@ -18,11 +18,11 @@ Computer Engineering student passionate about web development and creating beaut
  * **Certifications:** Java, C++, Prompt Engineering, HTML/CSS, Web Dev (IBM SkillBuild) 
 
 
-
+<div align = center>
 
 ![Aesthetic GIF](https://i.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif)
-
-
+</div>
+<div align = center>
   <p>Thanks for visiting my corner of the internet! ✨</p>
 </div>
 
