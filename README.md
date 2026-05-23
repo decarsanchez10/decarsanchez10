@@ -13,9 +13,9 @@ Computer Engineering student passionate about web development and creating beaut
 
 
 ### 🎀 Tech Stack
-  **Languages:** PHP, Python, JavaScript, SQL, Java, C++, HTML5 
-  **Concepts:** Networking, Security, Breadboarding 
-  **Certifications:** Java, C++, Prompt Engineering, HTML/CSS, Web Dev (IBM SkillBuild) 
+ *  **Languages:** PHP, Python, JavaScript, SQL, Java, C++, HTML5 
+ * **Concepts:** Networking, Security, Breadboarding 
+ * **Certifications:** Java, C++, Prompt Engineering, HTML/CSS, Web Dev (IBM SkillBuild) 
 
 
 
