@@ -22,6 +22,7 @@ Computer Engineering student passionate about web development and creating beaut
 
 ![Aesthetic GIF](https://i.giphy.com/media/kZqbBT64ECtjy/giphy.gif)
 </div>
+
 <div align = center>
   <p>Thanks for visiting my corner of the internet! ✨</p>
 </div>
