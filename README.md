@@ -1,5 +1,5 @@
 <div align = center>
-# 🎀 Hi there, I'm Decar! 🌸
+ <h1> 🎀 Hi there, I'm Decar! 🌸 </h1>
 </div>
 
 Computer Engineering student passionate about web development and creating beautiful, high-performance digital experiences. 💖
