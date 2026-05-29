@@ -1,5 +1,9 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Orbitron:wght@400..900&family=Zen+Dots&display=swap" rel="stylesheet">
+
 <div align = center>
- <h1> 🎀 Hi there, I'm Decar! 🌸 </h1>
+ <h1 style = " font-family: Zen Dots;"> 🎀 Hi there, I'm Decar! 🌸 </h1>
 </div>
 
 Computer Engineering student passionate about web development and creating beautiful, high-performance digital experiences. 💖
