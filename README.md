@@ -1,9 +1,5 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Calligraffitti&family=Orbitron:wght@400..900&family=Zen+Dots&display=swap" rel="stylesheet">
-
-<div align = center>
- <h1 style = " font-family: Zen Dots;"> 🎀 Hi there, I'm Decar! 🌸 </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🎀+Hi+there%2C+I'm+Decar!+🌸" alt="Typing SVG" />
 </div>
 
 Computer Engineering student passionate about web development and creating beautiful, high-performance digital experiences. 💖
