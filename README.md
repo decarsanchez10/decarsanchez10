@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=500&height=70&size=28&lines=%F0%9F%8E%80+Hi+there%2C+I'm+Decar!+%F0%9F%8C%B8" alt="Hi there, I'm Decar!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=500&height=70&size=35&lines=%F0%9F%8E%80+Hi+there%2C+I'm+Decar!+%F0%9F%8C%B8" alt="Hi there, I'm Decar!" />
 </div>
-
 Computer Engineering student passionate about web development and creating beautiful, high-performance digital experiences. 💖
 
 
