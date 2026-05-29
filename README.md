@@ -1,4 +1,5 @@
-# 🎀 Hi there, I'm Decar! 🌸
+<div align = "center"> # 🎀 Hi there, I'm Decar! 🌸
+</div>
 
 Computer Engineering student passionate about web development and creating beautiful, high-performance digital experiences. 💖
 
