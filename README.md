@@ -7,8 +7,6 @@ Computer Engineering student passionate about web development and creating beaut
 
 ### ✨ About Me
 * 🎓 **Major:** Bachelor of Science in Computer Engineering 
-* 🏫 **Institution:** Eastern Samar State University (ESSU) - Salcedo Campus 
-* 💻 **Interests:** Web Development, and solving complex problems 
 * 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/decar-sanchez-0858b7313) 
 
 ### 🛠️ Tech Stack & Languages
