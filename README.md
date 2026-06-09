@@ -44,7 +44,7 @@ Computer Engineering student passionate about web development and creating beaut
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=while(noSuccess)+%7B+tryAgain();+if(tired)+%7D+keepGoing();+%7D+%7D"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=while(noSuccess)+%7B+tryAgain();+if(tired)+%7B+keepGoing();+%7D+%7D"/>
 </p>
 
 ![snake](https://github.com/decarsanchez10/decarsanchez10/blob/output/github-snake-dark.svg)
