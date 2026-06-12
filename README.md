@@ -34,8 +34,7 @@ Computer Engineering student passionate about web development and creating beaut
 
 
 <div align = center>
-
-![Aesthetic GIF](https://i.giphy.com/media/kZqbBT64ECtjy/giphy.gif)
+![kitty](./kitty.gif)
 </div>
 
 <div align = center>
