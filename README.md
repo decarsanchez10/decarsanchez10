@@ -34,6 +34,7 @@ Computer Engineering student passionate about web development and creating beaut
 
 
 <div align = center>
+  
 ![kitty](./kitty.gif)
 </div>
 
