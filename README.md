@@ -5,7 +5,6 @@ Computer Engineering student passionate about web development and creating beaut
 
 
 ### ✨ About Me
-* 🎓 **Major:** Bachelor of Science in Computer Engineering 
 * 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/decar-sanchez-0858b7313) 
 
 ### 🛠️ Tech Stack & Languages
@@ -30,6 +29,7 @@ Computer Engineering student passionate about web development and creating beaut
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
 </p>
 
 
