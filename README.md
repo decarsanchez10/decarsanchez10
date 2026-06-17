@@ -4,7 +4,6 @@ Computer Engineering student passionate about web development and creating beaut
 
 
 
-### ✨ About Me
 * 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/decar-sanchez-0858b7313) 
 
 ### 🛠️ Tech Stack & Languages
