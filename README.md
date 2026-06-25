@@ -1,7 +1,7 @@
 ![Decar Sanchez Banner](./raced-banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=550&lines=while(noSuccess)+%7B;tryAgain();;if(tired)+%7B;keepGoing();;+%7D;+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=500&color=FF0000&center=true&vCenter=true&width=550&lines=while(noSuccess)+%7B;tryAgain();;if(tired)+%7B;keepGoing();;+%7D;+%7D" alt="Typing SVG" />
 </p>
 
 ---
