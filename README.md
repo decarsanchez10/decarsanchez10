@@ -50,15 +50,15 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=decarsanchez10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=decarsanchez10&hide_border=true&background=0d1117&ring=350000&fire=350000&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=decarsanchez10&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarsanchez10&layout=compact&hide_border=true&bg_color=0d1117&title_color=350000&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&bg_color=0d1117&color=ffffff&line=350000&point=350000&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
