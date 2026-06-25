@@ -1,6 +1,5 @@
 ![Decar Sanchez Banner](./raced-banner.png)
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=while(noSuccess)+%7B+tryAgain();+if(tired)+%7B+keepGoing();+%7D+%7D" alt="Typing SVG" />
 </p>
@@ -9,8 +8,7 @@
 
 ## Hey, I'm Decar 👋
 
-
-- 🏗️ **Right now:** Vue 3 + Quasar frontend, Django backend
+- 🏗️ **Right now:** Vue 3 + Quasar frontend, Django backend, CashTokens NFT minting
 - 🔬 **Also:** Contributing to undergraduate research on AI dependency and programming self-efficacy
 - 🎨 **On the side:** 3D/interactive web design, VS Code theme extensions ([red-velvet-theme](https://marketplace.visualstudio.com/))
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/decar-sanchez-0858b7313)
@@ -48,8 +46,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raced&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raced&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=350000&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=decarsanchez10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=decarsanchez10&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
