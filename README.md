@@ -8,6 +8,8 @@
 
 ## Hey, I'm Decar 👋
 
+I'm a Computer Engineering student based in the Philippines who likes working at the intersection of full-stack web dev and things that probably shouldn't exist yet.
+
 - 🏗️ **Right now:** Vue 3 + Quasar frontend, Django backend, CashTokens NFT minting
 - 🔬 **Also:** Contributing to undergraduate research on AI dependency and programming self-efficacy
 - 🎨 **On the side:** 3D/interactive web design, VS Code theme extensions ([red-velvet-theme](https://marketplace.visualstudio.com/))
