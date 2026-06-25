@@ -48,19 +48,19 @@ I'm a Computer Engineering student based in the Philippines who likes working at
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=B22222&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=decarsanchez10&theme=red-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=decarsanchez10&hide_border=true&background=00051C&ring=C00007&fire=FF4A51&currStreakLabel=FF4A51&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&stroke=6B0004" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarsanchez10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarsanchez10&layout=compact&hide_border=true&bg_color=00051C&title_color=FF4A51&text_color=ffffff&icon_color=C00007" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&bg_color=00051C&color=FF4A51&line=C00007&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
