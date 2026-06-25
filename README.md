@@ -10,7 +10,7 @@
 
 I'm a Computer Engineering student based in the Philippines who likes working at the intersection of full-stack web dev and things that probably shouldn't exist yet.
 
-- 🏗️ **Right now:** Vue 3 + Quasar frontend, Django backend, CashTokens NFT minting
+- 🏗️ **Right now:** Building full-stack apps with Vue 3 + Quasar, Django, and PostgreSQL
 - 🔬 **Also:** Contributing to undergraduate research on AI dependency and programming self-efficacy
 - 🎨 **On the side:** 3D/interactive web design, VS Code theme extensions ([red-velvet-theme](https://marketplace.visualstudio.com/))
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/decar-sanchez-0858b7313)
@@ -48,19 +48,19 @@ I'm a Computer Engineering student based in the Philippines who likes working at
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=350000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=B22222&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=decarsanchez10&hide_border=true&background=0d1117&ring=350000&fire=350000&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=decarsanchez10&theme=red-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarsanchez10&layout=compact&hide_border=true&bg_color=0d1117&title_color=350000&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarsanchez10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&bg_color=0d1117&color=ffffff&line=350000&point=350000&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&theme=redical&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
