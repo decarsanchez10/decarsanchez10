@@ -40,6 +40,3 @@
 <div align = center>
   <p>Thanks for visiting my corner of the internet! ✨</p>
 </div>
-
-
-![snake](https://github.com/decarsanchez10/decarsanchez10/blob/output/github-snake-dark.svg)
