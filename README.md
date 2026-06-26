@@ -11,7 +11,7 @@
 I'm a Computer Engineering student based in the Philippines who likes working at the intersection of full-stack web dev and things that probably shouldn't exist yet.
 
 - 🏗️ **Right now:** Building full-stack apps with Vue 3 + Quasar, Django, and PostgreSQL
-- 🔬 **Also:** Contributing to undergraduate research on AI dependency and programming self-efficacy
+- 🔬 **Also:** Contributing to undergraduate research on Artificial Intelligence Dependency and Computer Programming Self-efficacy 
 - 🎨 **On the side:** 3D/interactive web design, VS Code theme extensions ([red-velvet-theme](https://marketplace.visualstudio.com/))
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/decar-sanchez-0858b7313)
 
