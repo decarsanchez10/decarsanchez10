@@ -56,7 +56,7 @@ I'm a Computer Engineering student based in the Philippines who likes working at
 </p>
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=decarsanchez10&theme=darkhub" />
+[![GitHub Achievements](https://img.shields.io/badge/View-Achievements-350000?style=for-the-badge&logo=github)](https://github.com/decarsanchez10?tab=achievements)
 </p>
 
 <p align="center">
