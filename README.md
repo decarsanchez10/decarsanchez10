@@ -56,7 +56,7 @@ I'm a Computer Engineering student based in the Philippines who likes working at
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarsanchez10&layout=compact&hide_border=true&bg_color=00051C&title_color=FF4A51&text_color=ffffff&icon_color=C00007" alt="Top Languages" />
+   <img src="https://github-profile-trophy.vercel.app/?username=decarsanchez10&theme=darkhub" />
 </p>
 
 <p align="center">
