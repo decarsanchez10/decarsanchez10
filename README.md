@@ -37,6 +37,10 @@ I'm a Computer Engineering student based in the Philippines who likes working at
   <img src="https://img.shields.io/badge/PostgreSQL-350000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-350000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-350000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GSAP-350000?style=for-the-badge&logo=git&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Three.js-350000?style=for-the-badge&logo=git&logoColor=white" alt="Three.js" />
+
+
 </p>
 
 ---
