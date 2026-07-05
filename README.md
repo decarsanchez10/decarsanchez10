@@ -30,9 +30,6 @@ I'm a Computer Engineering student based in the Philippines who likes working at
   <img src="https://img.shields.io/badge/HTML5-350000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/MySQL-350000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
-**Currently building with**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-350000?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Quasar-350000?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
@@ -40,7 +37,6 @@ I'm a Computer Engineering student based in the Philippines who likes working at
   <img src="https://img.shields.io/badge/PostgreSQL-350000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-350000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-350000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-350000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
