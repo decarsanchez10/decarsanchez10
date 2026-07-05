@@ -29,8 +29,6 @@ I'm a Computer Engineering student based in the Philippines who likes working at
   <img src="https://img.shields.io/badge/C%2B%2B-350000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-350000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/MySQL-350000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/Vue.js-350000?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Quasar-350000?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
   <img src="https://img.shields.io/badge/Django-350000?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -55,9 +53,6 @@ I'm a Computer Engineering student based in the Philippines who likes working at
   <img src="https://streak-stats.demolab.com?user=decarsanchez10&hide_border=true&background=00051C&ring=C00007&fire=FF4A51&currStreakLabel=FF4A51&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&stroke=6B0004" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-[![GitHub Achievements](https://img.shields.io/badge/View-Achievements-350000?style=for-the-badge&logo=github)](https://github.com/decarsanchez10?tab=achievements)
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&bg_color=00051C&color=FF4A51&line=C00007&point=ffffff&hide_border=true" alt="Activity Graph" />
