@@ -49,7 +49,7 @@ I'm a Computer Engineering student based in the Philippines who likes working at
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=decarsanchez10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=decarsanchez10&background=0D1117&border=350000&stroke=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9C9C9C&hide_border=false)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&bg_color=00051C&color=FF4A51&line=C00007&point=ffffff&hide_border=true" alt="Activity Graph" />
