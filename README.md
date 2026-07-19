@@ -60,7 +60,4 @@ I'm a Computer Engineering student based in the Philippines who likes working at
 
 ---
 
-<div align="center">
-  <img src="./kitty.gif" alt="kitty" />
   <p><sub>Thanks for stopping by ✨</sub></p>
-</div>
