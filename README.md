@@ -33,7 +33,6 @@
 
 ---
 
-I'm a Computer Engineering student based in the Philippines who likes working at the intersection of full-stack web dev and things that probably shouldn't exist yet.
 
 - 🏗️ **Right now:** Building full-stack apps with Vue 3 + Quasar, Django, and PostgreSQL
 - 🔬 **Also:** Contributing to undergraduate research on Artificial Intelligence Dependency and Computer Programming Self-efficacy 
