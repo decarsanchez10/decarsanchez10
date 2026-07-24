@@ -45,7 +45,6 @@
 
   <img src="https://img.shields.io/badge/GSAP-350000?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/Three.js-350000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Figma-350000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
