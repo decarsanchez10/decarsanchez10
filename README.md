@@ -61,6 +61,9 @@
 
 ## 📊 GitHub Stats
 
+
+
+<p align="center">
   
 <table>
   <tr>
@@ -69,9 +72,6 @@
     
   </tr>
 </table>
-
-<p align="center">
-
 
 </p>
 
