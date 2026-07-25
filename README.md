@@ -64,16 +64,8 @@
 
 
 <p align="center">
-  
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/decarsanchez10/decarsanchez10/main/metrics-profile.svg" width="420"/></td>
-    <td><img src="https://raw.githubusercontent.com/decarsanchez10/decarsanchez10/main/metrics-lang-calendar.svg" width="420"/></td>
-  </tr>
-</table>
-
+  <img src="./metrics.svg" width="850"/>
 </p>
-
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
