@@ -6,25 +6,20 @@
 
 ---
 
-<table border="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="35%" style="border: none;">
-      <img src="tomiengani.png" width="100%" />
-    </td>
-    <td width="65%" style="border: none;">
-      <h3>Know About Me</h3>
-      <h4>Hey there! I'm Decar 👋</h4>
-      <p>
-        I'm a Computer Engineering student with a growing passion for
-        web development. I love building things for the web —
-        from full-stack apps to little side projects that let me
-        experiment with new tools and frameworks. When I'm not coding
-        or studying, I'm probably spending time with my cats 🐈 —
-        certified cat person, no shame.
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="left" width="280" src="tomiengani.png" />
+
+### Know About Me
+
+**Hey there! I'm Decar** 👋
+
+I'm a Computer Engineering student with a growing passion for
+web development. I love building things for the web —
+from full-stack apps to little side projects that let me
+experiment with new tools and frameworks. When I'm not coding
+or studying, I'm probably spending time with my cats 🐈 —
+certified cat person, no shame.
+
+<br clear="left"/>
 
 ---
 
