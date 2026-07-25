@@ -71,6 +71,7 @@
     <td><img src="./metrics-lang-calendar.svg" width="420"/></td>
   </tr>
 </table>
+
 </p>
 
 <p align = "center">
