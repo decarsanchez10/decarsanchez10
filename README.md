@@ -9,7 +9,7 @@
 <table border=none>
   <tr>
     <td width="35%">
-      <img src=".github/assets/about-me.png" width="100%" />
+      <img src="tomie.png" width="100%" />
     </td>
     <td width="65%">
       <h3>Know About Me</h3>
