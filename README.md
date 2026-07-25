@@ -6,6 +6,26 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="35%">
+      <img src=".github/assets/about-me.png" width="100%" />
+    </td>
+    <td width="65%">
+      <h3>Know About Me</h3>
+      <h4>Hey there! I'm Decar 👋</h4>
+      <p>
+        I'm a Computer Engineering student with a growing passion for
+        web development. I love building things for the web —
+        from full-stack apps to little side projects that let me
+        experiment with new tools and frameworks. When I'm not coding
+        or studying, I'm probably spending time with my cats 🐈 —
+        certified cat person, no shame.
+      </p>
+    </td>
+  </tr>
+</table>
+---
 
 ## 🛠️ Tech Stack
 
@@ -50,14 +70,7 @@
 ---
 
 
-- 🏗️ **Right now:** Building full-stack apps with Vue 3 + Quasar, Django, and PostgreSQL
-- 🔬 **Also:** Contributing to undergraduate research on Artificial Intelligence Dependency and Computer Programming Self-efficacy 
-- 🎨 **On the side:** 3D/interactive web design, VS Code theme extensions ([red-velvet-theme](https://marketplace.visualstudio.com/))
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/decar-sanchez-0858b7313)
 
-
-
----
 
 ## 📊 GitHub Stats
 
