@@ -6,10 +6,10 @@
 
 ---
 
-<table border=none>
+<table border=none;>
   <tr>
     <td width="35%">
-      <img src="tomie.png" width="100%" />
+      <img src="tomiengani.png" width="100%" />
     </td>
     <td width="65%">
       <h3>Know About Me</h3>
