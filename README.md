@@ -6,12 +6,12 @@
 
 ---
 
-<table border=none;>
+<table border="0" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="35%">
+    <td width="35%" style="border: none;">
       <img src="tomiengani.png" width="100%" />
     </td>
-    <td width="65%">
+    <td width="65%" style="border: none;">
       <h3>Know About Me</h3>
       <h4>Hey there! I'm Decar 👋</h4>
       <p>
