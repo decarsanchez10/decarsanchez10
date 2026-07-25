@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=500&pause=500&color=FF0000&center=true&vCenter=true&width=550&lines=while(noSuccess)%7B;tryAgain()%3B;if(tired)%7B;keepGoing()%3B;%7D;%7D" alt="Typing SVG" />
 </p>
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=decarsanchez10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
