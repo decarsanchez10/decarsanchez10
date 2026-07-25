@@ -6,7 +6,7 @@
 
 ---
 
-<table border="0">
+<table border="none">
   <tr>
     <td width="35%">
       <img src=".github/assets/about-me.png" width="100%" />
