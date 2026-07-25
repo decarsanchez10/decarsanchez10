@@ -63,7 +63,12 @@
 
 <p align="center">
   
-![Metrics](./metrics.svg)
+<table>
+  <tr>
+    <td><img src="./metrics-profile.svg" width="420"/></td>
+    <td><img src="./metrics-lang-calendar.svg" width="420"/></td>
+  </tr>
+</table>
 
 </p>
 <p align="center">
