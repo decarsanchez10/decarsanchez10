@@ -64,6 +64,7 @@
 
 
 <p align="center">
+  
 <table>
   <tr>
     <td><img src="./metrics-profile.svg" width="420"/></td>
@@ -71,6 +72,7 @@
   </tr>
 </table>
 </p>
+
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
