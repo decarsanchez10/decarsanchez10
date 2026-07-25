@@ -12,13 +12,20 @@
 
 **Hey there! I'm Decar** 👋
 
-I'm a Computer Engineering student with a growing passion for
-web development. I love building things for the web —
-from full-stack apps to little side projects that let me
-experiment with new tools and frameworks. When I'm not coding
-or studying, I'm probably spending time with my cats 🐈 —
-certified cat person, no shame.
+I'm a Computer Engineering student with a growing passion for web
+development. What started as curiosity about how websites actually
+work turned into late nights experimenting with frameworks, breaking
+things, and slowly figuring out how to put them back together again.
 
+Outside of code, I'm a certified cat person 🐈 — no shame, no
+apologies. My cats have supervised more debugging sessions than
+any of my professors ever will. When I'm not coding, studying, or
+being stared at by a judgmental cat, I'm usually trying to learn
+something new, whether that's a new language, a new framework, or
+just a new way to make my code slightly less chaotic.
+
+I'm still early in my journey, but I show up, keep building, and
+try to get a little better every day.
 <br clear="left"/>
 
 ---
