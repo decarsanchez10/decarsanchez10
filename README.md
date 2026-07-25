@@ -66,6 +66,9 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=decarsanchez10&theme=github_dark" alt="GitHub Stats" />
 
+</p>
+
+<p align = "center">
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
 
