@@ -62,7 +62,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decarsanchez10&theme=github_dark" alt="Top Languages" />
+![Metrics](./metrics.svg)
+</p>
+<p align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=decarsanchez10&theme=github_dark" alt="GitHub Stats" />
 
