@@ -67,9 +67,8 @@
   
 <table>
   <tr>
-    <td><img src="./metrics-profile.svg" width="420"/></td>
-    <td><img src="./metrics-lang-calendar.svg" width="420"/></td>
-    
+    <td><img src="https://raw.githubusercontent.com/decarsanchez10/decarsanchez10/main/metrics-profile.svg" width="420"/></td>
+    <td><img src="https://raw.githubusercontent.com/decarsanchez10/decarsanchez10/main/metrics-lang-calendar.svg" width="420"/></td>
   </tr>
 </table>
 
