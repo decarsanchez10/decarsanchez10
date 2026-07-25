@@ -5,6 +5,7 @@
 </p>
 
 
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=decarsanchez10&theme=tokyonight&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
