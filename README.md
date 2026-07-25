@@ -61,14 +61,11 @@
 
 ## 📊 GitHub Stats
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=decarsanchez10&theme=dark" alt="GitHub Streak" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decarsanchez10&theme=github_dark" alt="Top Languages" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decarsanchez10&theme=github_dark" alt="Top Languages" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=decarsanchez10&theme=github_dark" alt="GitHub Stats" />
 
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
 
