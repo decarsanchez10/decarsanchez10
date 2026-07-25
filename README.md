@@ -4,9 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=500&pause=500&color=FF0000&center=true&vCenter=true&width=550&lines=while(noSuccess)%7B;tryAgain()%3B;if(tired)%7B;keepGoing()%3B;%7D;%7D" alt="Typing SVG" />
 </p>
 
-
-![Streak](https://streak-stats.demolab.com?user=decarsanchez10&theme=tokyonight&hide_border=true)
-
 ---
 
 <img align="left" width="280" src="tomiengani.png" />
