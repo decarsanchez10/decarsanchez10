@@ -7,6 +7,7 @@
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
+
 ---
 
 <img align="left" width="280" src="tomiengani.png" />
