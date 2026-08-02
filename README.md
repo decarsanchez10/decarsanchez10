@@ -7,7 +7,10 @@
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
 </p>
-
+<p align="center">
+  
+<img src="https://streak-stats.demolab.com?user=decarsanchez10&background=00051C&border=C00007&stroke=9C9C9C&ring=FF4A51&fire=FF4A51&currStreakLabel=FF4A51&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=9C9C9C&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 <img align="left" width="280" src="tomiengani.png" />
@@ -89,11 +92,7 @@ try to get a little better every day.
 </p>
 
 
-<p align="center">
-  
-<img src="https://streak-stats.demolab.com?user=decarsanchez10&background=00051C&border=C00007&stroke=9C9C9C&ring=FF4A51&fire=FF4A51&currStreakLabel=FF4A51&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=9C9C9C&hide_border=true" alt="GitHub Streak" />
 
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&bg_color=00051C&color=FF4A51&line=C00007&point=ffffff&hide_border=true" alt="Activity Graph" />
