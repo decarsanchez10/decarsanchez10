@@ -11,7 +11,10 @@
   
 <img src="https://streak-stats.demolab.com?user=decarsanchez10&background=00051C&border=C00007&stroke=9C9C9C&ring=FF4A51&fire=FF4A51&currStreakLabel=FF4A51&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=9C9C9C&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
 ---
+
 
 <img align="left" width="280" src="tomiengani.png" />
 
