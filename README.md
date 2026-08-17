@@ -16,7 +16,6 @@
 
 ---
 
-
 <img align="left" width="280" src="tomiengani.png" />
 
 ### Know About Me
