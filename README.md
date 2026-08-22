@@ -1,7 +1,7 @@
 ![Decar Sanchez Banner](./raced-banner.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF4A51&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Blockchain+%26+Web+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  <img src="./git-city.gif" alt="Terminal Animation" width="560" />
 </p>
 
 <p align="center">
