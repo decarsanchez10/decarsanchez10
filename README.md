@@ -1,8 +1,10 @@
 ![Decar Sanchez Banner](./raced-banner.png)
 
+
 <p align="center">
   <img src="./git-city.gif" alt="Terminal Animation" width="560" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=C00007&style=for-the-badge" alt="Profile Views" />
