@@ -16,13 +16,7 @@
 
 ---
 
-## About Me
 
-I'm a Computer Engineering student with a focus on web development and blockchain applications. My work spans full-stack development — from building responsive front-end interfaces to designing back-end architectures and integrating blockchain-based solutions.
-
-I'm continually expanding my skill set, exploring new frameworks and tools, and applying what I learn to real-world projects. I value clean, maintainable code and enjoy solving technical problems that require both creativity and precision.
-
----
 
 ## Tech Stack
 
