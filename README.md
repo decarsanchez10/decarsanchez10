@@ -1,20 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="./raced-banner.png" alt="Decar Sanchez Banner" width="850"/>
+</p>
 
-<img src="./raced-banner.png" alt="Decar Sanchez Banner" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Decar+%F0%9F%8E%80;Welcome+to+my+little+corner+%E2%9C%A8;Let's+build+something+cute+%F0%9F%8C%B8" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Decar+%F0%9F%8E%80;Welcome+to+my+little+corner+%E2%9C%A8;Let's+build+something+cute+%F0%9F%8C%B8" alt="Typing SVG" />
+<p align="center">
+  <img src="./git-city.gif" alt="Terminal Animation" width="500"/>
+</p>
 
-
-
-<img src="./git-city.gif" alt="Terminal Animation" width="500" style="border-radius: 16px; margin-top: 10px;" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=FFB6D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=decarsanchez10&color=FFB6D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <h3 align="center">🎀 a little bit about me 🎀</h3>
 
@@ -28,7 +26,7 @@
 
 </div>
 
-## 🎀 tech stack
+<h2 align="center">🎀 tech stack</h2>
 
 <h4 align="center">💗 languages</h4>
 <p align="center">
@@ -72,7 +70,7 @@
 
 </div>
 
-## 🌸 github stats
+<h2 align="center">🌸 github stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=decarsanchez10&background=FFF0F6&border=FFB6D9&stroke=FF6FB5&ring=FF9AC9&fire=FF6FB5&currStreakLabel=FF6FB5&sideNums=8A5A6B&currStreakNum=8A5A6B&sideLabels=8A5A6B&dates=B98BA3&hide_border=false&border_radius=20" alt="GitHub Streak" />
@@ -88,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decarsanchez10&bg_color=FFF0F6&color=FF6FB5&line=FFB6D9&point=8A5A6B&hide_border=false&area=true&area_color=FFE1EE" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/FF6FB5/decarsanchez10" alt="Contribution Chart" width="880" />
 </p>
 
 <div align="center">
