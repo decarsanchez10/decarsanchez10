@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Decar+%F0%9F%8E%80;Welcome+to+my+little+corner+%E2%9C%A8;Let's+build+something+cute+%F0%9F%8C%B8" alt="Typing SVG" />
 
+
+
 <img src="./git-city.gif" alt="Terminal Animation" width="500" style="border-radius: 16px; margin-top: 10px;" />
 
 <br/>
